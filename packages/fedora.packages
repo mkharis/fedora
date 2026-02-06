@@ -4,6 +4,7 @@ eza
 fd-find
 fzf
 gh
+git-delta
 httpie
 lazygit
 neovim
