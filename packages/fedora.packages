@@ -9,7 +9,6 @@ fd-find
 fzf
 gh
 git-delta
-hyperfine
 jq
 lazygit
 neovim
@@ -18,7 +17,6 @@ procs
 ripgrep
 starship
 stow
-thefuck
 tldr
 tmux
 zoxide
